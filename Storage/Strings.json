@@ -1,0 +1,26 @@
+{
+    "EmptyPeopleNamesListReply": "There are currently no people added.",
+    "EmptyAliasesListReply": "Could not find any aliases for this person.",
+    "EmptyQuotesListReply": "Could not find any quotes for this person.",
+    "EmptyPermissionIDsListReply": "There are currently no permission IDs added.",
+
+    "PersonNameNotUniqueReply": "Please choose a unique name.",
+    "PersonAliasNotUniqueReply": "Please choose a unique alias.",
+    "PersonQuoteNotUniqueReply": "Please choose a unique quote.",
+    "PermissionAlreadyGivenReply": "Permissions are already given to the specified person.",
+    "PermissionAlreadyTakenReply": "The specified person already has no permissions.",
+
+    "PersonNotFoundReply": "Could not find person with the specified name or alias",
+    "AliasNotFoundReply": "Could not find the specified alias.",
+    "QuoteNotFoundReply": "Could not find the specified quote.",
+
+    "PersonAddedReply": "Successfully added a new person.",
+    "AliasAddedReply": "Successfully added a new alias.",
+    "QuoteAddedReply": "Successfully added a new quote.",
+    "PermissionGivenReply": "Successfully given permissions to the specified person.",
+
+    "PersonRemovedReply": "Successfully removed person.",
+    "AliasRemovedReply": "Successfully removed alias.",
+    "QuoteRemovedReply": "Successfully removed quote.",
+    "PermissionTakenReply": "Successfully taken permissions from the specified person."
+}
